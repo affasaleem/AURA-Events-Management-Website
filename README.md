@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -52,3 +53,6 @@ event-management-website/
    python -m http.server 8000
    ```
    Then open `http://localhost:8000` in your browser.
+=======
+# AURA-Events-Event-Management-Website-
+>>>>>>> 5565d0a01f035f946719505f726fb6d361a750e0
