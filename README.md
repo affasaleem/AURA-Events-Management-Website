@@ -1,5 +1,63 @@
-<<<<<<< HEAD
+# 🎉 Event Management Website
 
+A modern, responsive, and visually stunning **Event Management Website** built using **HTML5, CSS3, and Bootstrap 5**. This project showcases a professional event planning company website with elegant UI design, smooth user experience, and full responsiveness across all devices.
+
+## 🌟 Live Demo
+
+🔗 https://affasaleem.github.io/AURA-Events-Management-Website-/
+
+<!-- ---
+
+## 📸 Preview
+
+Add screenshots of your project here.
+
+### Home Page
+![Home Page](assets/images/preview-home.png)
+
+### Services Section
+![Services](assets/images/preview-services.png)
+
+### Gallery Section
+![Gallery](assets/images/preview-gallery.png) -->
+
+---
+
+## 🚀 Features
+
+- Modern and Professional Design
+- Fully Responsive Layout
+- Sticky Navigation Bar
+- Eye-Catching Hero Section
+- About Company Section
+- Event Services Showcase
+- Featured Events Section
+- Team/Speakers Section
+- Event Timeline
+- Responsive Gallery
+- Client Testimonials
+- Pricing Packages
+- Contact Form
+- Newsletter Subscription
+- Smooth Hover Effects
+- CSS Animations
+- Mobile-Friendly Navigation
+- Cross-Browser Compatibility
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Google Fonts
+- Font Awesome Icons
+
+---
 
 
 ## 📂 Project Structure
@@ -33,26 +91,93 @@ event-management-website/
 
 ---
 
-## 🛠️ Technology Stack
+## 🎯 Sections Included
 
-1. **HTML5**: Semantic tags (`<header>`, `<main>`, `<section>`, `<footer>`, `<nav>`) ensuring accessibility and neat SEO architecture.
-2. **CSS3**: Custom property variables, Grid templates, Flex flows, backdrop filter styling, and keyframe animations.
-3. **Vanilla JS**: Lightweight controllers for responsive interactive elements (zero third-party JS dependencies for layout).
-4. **Google Fonts**: Importing `Space Grotesk` (headings) and `Plus Jakarta Sans` (body).
-5. **FontAwesome v6**: Crisp vectors for services, benefits, contact icons, and rating indicators loaded via CDN.
+- Home
+- About Us
+- Services
+- Featured Events
+- Why Choose Us
+- Team Members
+- Event Timeline
+- Gallery
+- Testimonials
+- Pricing Plans
+- Contact
+- Footer
 
 ---
 
-## 🚀 How to Run Locally
+## ⚙️ Installation
 
-1. Open the project folder on your system.
-2. Double-click `index.html` to open it in any modern browser (Chrome, Safari, Edge, Firefox).
-3. Alternatively, run a local development server (e.g., Live Server extension in VS Code, or python server):
-   ```bash
-   # Python 3
-   python -m http.server 8000
-   ```
-   Then open `http://localhost:8000` in your browser.
-=======
-# AURA-Events-Event-Management-Website-
->>>>>>> 5565d0a01f035f946719505f726fb6d361a750e0
+1. Clone the repository
+
+```bash
+git clone https://github.com/affasaleem/AURA-Events-Management-Website-.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd event-management-website
+```
+
+3. Open `index.html` in your browser
+
+---
+
+## 💡 Learning Outcomes
+
+Through this project, I practiced:
+
+- Semantic HTML Structure
+- Modern CSS Techniques
+- Responsive Web Design
+- Flexbox & CSS Grid
+- UI/UX Design Principles
+- Website Layout Optimization
+- Mobile-First Design Concepts
+
+---
+
+<!-- ## 📈 Future Improvements
+
+- Add JavaScript Interactions
+- Event Booking Functionality
+- Dark Mode Toggle
+- Event Filtering System
+- Backend Integration
+- Contact Form Validation
+
+--- -->
+
+## 👨‍💻 Author
+
+**Aff**
+
+Frontend Developer
+
+- GitHub: https://github.com/affasaleem
+- LinkedIn: https://www.linkedin.com/in/affasaleem/
+
+---
+
+## 🤖 AI Tools Used
+
+This project was developed with the assistance of:
+
+- ChatGPT
+- Cursor AI
+- Antigravity
+
+AI tools were used for brainstorming, design inspiration, code optimization, and development assistance.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub!
