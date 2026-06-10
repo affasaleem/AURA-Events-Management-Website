@@ -4,7 +4,7 @@ A modern, responsive, and visually stunning **Event Management Website** built u
 
 ## 🌟 Live Demo
 
-🔗 https://affasaleem.github.io/AURA-Events-Management-Website-/
+🔗 https://affasaleem.github.io/AURA-Events-Management-Website
 
 <!-- ---
 
